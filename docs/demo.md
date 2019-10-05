@@ -24,6 +24,6 @@ Ecuación:
 
 $$x^2$$
 
-Este es un vinculo a google [www.google.com]
+Este es un vinculo a google www.google.com
 
 
