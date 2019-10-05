@@ -14,12 +14,14 @@ bla bla blad
 
 ## Subtitulo 3
 
-[ ] Lista de chequeo 1
+- [X] Lista de chequeo 1
 
-[ ] Lista de chequeo 2
+- [ ] Lista de chequeo 2
 
 ## Subitutlo 3
 
 Ecuación:
 
 $$x^2$$
+
+
